@@ -119,9 +119,10 @@ body {
 
 .chapter-header {
   font-family: rubik;
+  font-weight: bold;
   display: block;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1.5em;
   padding: 0 5px;
 }
 
