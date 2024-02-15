@@ -189,13 +189,14 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   font-family: Rubik;
+  color: #var(--jet);
   margin: 0;
   font-size: 1.5em;
 }
 
 h2 {
   font-family: Rubik;
-  #var(--jet);
+ color:  #var(--jet);
   margin: 0;
   font-size: 1.4em;
   font-weight: bold;
