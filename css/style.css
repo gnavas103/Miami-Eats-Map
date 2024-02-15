@@ -121,7 +121,7 @@ body {
 .chapter-header {
   font-family: rubik;
   font-weight: bold;
-  color: purple;
+  color: var(--jet);
   display: block;
   text-align: center;
   font-size: 2em;
@@ -186,7 +186,7 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: #333;
+  color: var(--jet);
 }
 
 /* Storymap title & subtitle */
