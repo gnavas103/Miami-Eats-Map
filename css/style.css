@@ -5,6 +5,14 @@
   font-style: normal;
 }
 
+.rubik-<uniquifier> {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
 body {
   padding: 0px;
   margin: 0px;
@@ -87,6 +95,8 @@ body {
 }
 
 .img-container {
+
+  background: purple;
   margin: 0;
   margin-bottom: 5px;
   height: 200px;
