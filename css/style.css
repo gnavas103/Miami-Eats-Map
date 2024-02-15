@@ -62,7 +62,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: #9CD08F;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -96,7 +96,6 @@ body {
 
 .img-container {
 
-  background: purple;
   margin: 0;
   margin-bottom: 5px;
   height: 200px;
@@ -191,6 +190,6 @@ h1 {
 h2 {
   font-family: Rubik;
   margin: 0;
-  font-size: 1.1em;
-  font-weight: normal;
+  font-size: 1.4em;
+  font-weight: bold;
 }
