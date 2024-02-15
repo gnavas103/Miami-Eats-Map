@@ -1,6 +1,7 @@
 root: {
+  
 --pistachio: #9CD08F;
---jet: #433e3f;
+--jet: #433E3F;
 }
 
 .montserrat-<uniquifier> {
@@ -120,7 +121,7 @@ body {
 .chapter-header {
   font-family: rubik;
   font-weight: bold;
-  color: #var(--jet)
+  color: purple;
   display: block;
   text-align: center;
   font-size: 2em;
