@@ -191,13 +191,14 @@ h1 {
   font-family: Rubik;
   color: #var(--jet);
   margin: 0;
-  font-size: 1.5em;
+  font-size: 2em;
+  font-weight: bold;
 }
 
 h2 {
   font-family: Rubik;
  color:  #var(--jet);
   margin: 0;
-  font-size: 1.4em;
+  font-size: 2.1em;
   font-weight: bold;
 }
