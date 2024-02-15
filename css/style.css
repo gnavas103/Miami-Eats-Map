@@ -1,3 +1,7 @@
+root: {
+--pistachio: #9CD08F;
+}
+
 .montserrat-<uniquifier> {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
@@ -16,6 +20,7 @@
 body {
   padding: 0px;
   margin: 0px;
+  background: #var(--pistachio);
   font-family: "Montserrat", sans-serif;
   overflow: hidden;
 }
