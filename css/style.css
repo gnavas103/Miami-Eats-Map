@@ -1,5 +1,6 @@
 root: {
 --pistachio: #9CD08F;
+--jet: #433e3f;
 }
 
 .montserrat-<uniquifier> {
@@ -194,6 +195,7 @@ h1 {
 
 h2 {
   font-family: Rubik;
+  #var(--jet);
   margin: 0;
   font-size: 1.4em;
   font-weight: bold;
