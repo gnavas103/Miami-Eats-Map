@@ -45,7 +45,7 @@ body {
 }
 
 #contents {
-  padding: 0;
+  padding: 10px;
   width: 100%;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
@@ -192,7 +192,7 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   font-family: Rubik;
-  color: #var(--jet);
+  color: grey;
   margin: 0;
   font-size: 2em;
   font-weight: bold;
@@ -200,7 +200,7 @@ h1 {
 
 h2 {
   font-family: Rubik;
- color:  #var(--jet);
+ color: grey;
   margin: 0;
   font-size: 2.1em;
   font-weight: bold;
