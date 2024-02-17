@@ -121,7 +121,7 @@ body {
 .chapter-header {
   font-family: rubik;
   font-weight: bold;
-  color: var(--jet) !important;
+  color: orange;
   display: block;
   text-align: center;
   font-size: 2em;
