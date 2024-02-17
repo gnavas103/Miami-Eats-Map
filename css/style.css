@@ -121,7 +121,7 @@ body {
 .chapter-header {
   font-family: rubik;
   font-weight: bold;
-  color: var(--jet);
+  color: var(--jet) !important;
   display: block;
   text-align: center;
   font-size: 2em;
@@ -141,7 +141,7 @@ a.source:visited {
   margin: 20px;
   text-align: left;
   font-size: 11pt;
-  padding: 20px;
+  padding: 10px;
 }
 
 .in-focus {
